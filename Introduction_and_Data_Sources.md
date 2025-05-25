@@ -1,4 +1,4 @@
-# 📘 Investment and Stock Market Behavior Analysus using Python
+# 📘 Investment and Stock Market Behavior Analysis using Python
 
 ## 📌 What Is Stock Analysis?
 
